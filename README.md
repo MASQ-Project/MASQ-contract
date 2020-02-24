@@ -4,9 +4,11 @@ Open Source ERC20 Smart Contract for MASQ
 
 Available to view on Etherscan.io - https://etherscan.io/address/0x02ba9B528425f9de08F961B88A10b03Be8B8B998#code
 
-Cloned original Smart Contract from Substratum 2018-2019: https://github.com/SubstratumNetwork/sub-contract All credit to their Solidity creation, audit and review goes to them.
+Derived work from the Smart Contract used by Substratum 2018-2019: https://github.com/SubstratumNetwork/sub-contract 
 
-Their smart contract was audited by Quantstamp in 2018-2019, and we made no changes to the solidity code besides the ticker, token name and updated Solidity compiler (0.5.16)
+All credit to their Solidity file, audit and review goes to them and their contributors
+
+The smart contract was audited by Quantstamp in 2018-2019, and no changes were made to the solidity code besides the ticker, token name and updated Solidity compiler (0.5.16)
 
 Cloned under the MIT license, and rebuilt using updated OpenZeppelin open source ERC20 contract structures: https://github.com/OpenZeppelin/openzeppelin-contracts
 
