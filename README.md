@@ -28,6 +28,7 @@ Bridging is live on Superbridge.app across the official [Optimism Stack Token Li
 ---------
 
 Smart Contract work derived from: https://github.com/SubstratumNetwork/sub-contract
+
 The smart contract was audited by Quantstamp in 2018-2019, and no changes were made to the solidity code besides the ticker, token name and updated Solidity compiler (0.5.16)
 All credit to their Solidity file, audit and review goes to them and their contributors
 
