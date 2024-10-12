@@ -3,7 +3,7 @@
 Open Source ERC20 Smart Contract for MASQ
 [https://etherscan.io/token/0x06F3C323f0238c72BF35011071f2b5B7F43A054c](https://etherscan.io/token/0x06F3C323f0238c72BF35011071f2b5B7F43A054c)
 
-[MetaTrust smart contract security audit](https://github.com/MASQ-Project/MASQ-contract/tree/master/Metatrust_MASQ%V2%Token.pdf)
+[MetaTrust smart contract security audit](https://github.com/MASQ-Project/MASQ-contract/blob/master/Metatrust_MASQ%20V2%20Token.pdf)
 
 ## Officially supported $MASQ contracts are below
 
@@ -14,6 +14,8 @@ Open Source ERC20 Smart Contract for MASQ
 $MASQ has officially bridged to Polygon PoS using Polygon Token Mapper tool
 `0xee9a352f6aac4af1a5b9f467f6a93e0ffbe9dd35`
 [https://polygonscan.com/token/0xee9a352f6aac4af1a5b9f467f6a93e0ffbe9dd35](https://polygonscan.com/token/0xee9a352f6aac4af1a5b9f467f6a93e0ffbe9dd35)
+
+Bridging is live on [Polygon Portal](https://portal.polygon.technology)
 
 **Base**
 $MASQ has officially bridged to Base using Base methodology and [official L2 token bridge contracts](https://docs.base.org/docs/base-contracts/#l2-contract-addresses)
