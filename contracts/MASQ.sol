@@ -5,6 +5,9 @@
 pragma solidity 0.5.16;
 
 /**
+ * MASQ v2 token contract for use by the MASQ Network and their community - for MASQNode
+ * decentralized mesh network sfotware solution - internet freedom!
+ * 
  * Compiled Feb 2020 from OpenZeppelin github open-source code contracts:
  * "https://github.com/OpenZeppelin/openzeppelin-solidity/contracts/ownership/Ownable.sol";
  * "https://github.com/OpenZeppelin/openzeppelin-solidity/contracts/token/ERC20/ERC20.sol";
@@ -590,13 +593,13 @@ contract ERC20Burnable is Context, ERC20 {
     }
 }
 
-contract MASQ is ERC20Burnable, Ownable {
+contract MASQv2 is ERC20Burnable, Ownable {
     string public constant name = "MASQ";
     string public constant symbol = "MASQ";
     uint8 public constant decimals = 18;
 
     // 472 million tokens * decimal places (10^18)
-    uint256 public constant INITIAL_SUPPLY = 472000000000000000000000000;
+    uint256 public constant INITIAL_SUPPLY = 39947981000000000000000000;
 
     constructor() public {
         ERC20._mint(msg.sender, INITIAL_SUPPLY);
